@@ -1,0 +1,9 @@
+name: chromium_correct
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pytest
+  - selenium
+  - chromium=124  #нужная версия
