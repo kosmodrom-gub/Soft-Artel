@@ -16,7 +16,7 @@ async def listen_websocket(url):
         try:
             await listener_task
         except asyncio.CancelledError:
-            print("WebSocket соединение закрыто по таймеру")
+            print("WebSocket соединение закрыто по таймерdsadasdasdaу")
 
         try:
             await ping_task
