@@ -1,5 +1,5 @@
 import pytest
-
+// comment
 def test_stub():
     """Заглушка для теста."""
     pass
