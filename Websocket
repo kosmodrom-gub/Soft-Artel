@@ -1,7 +1,7 @@
 import asyncio
 import time
 import websockets
-import iooo
+import iooos
 
 async def listen_websocket(url):
     """Устанавливаем коннект с вебсокетом """
